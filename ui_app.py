@@ -16,11 +16,11 @@ st.title("🗺️ OR Engineering")
 col1, col2 = st.columns(2)
 with col1:
     st.subheader("Endereços de Origem")
-    origins_input = st.text_area("Insira um endereço por linha", key="origens_input")
+    origins_input = st.text_area("Insira um endereço por linha (Ex. Rua Pascoal Marmo, Jardim Italia, Limeira, São Paulo, Brasil)", key="origens_input")
 
 with col2:
     st.subheader("Endereços de Destino")
-    destinations_input = st.text_area("Insira um endereço por linha", key="destinos_input")
+    destinations_input = st.text_area("Insira um endereço por linha (Ex. Rua Pascoal Marmo, Jardim Italia, Limeira, São Paulo, Brasil)", key="destinos_input")
 
 # Botão para selecionar o tipo de unidade de medida para a distância
 with col1:
