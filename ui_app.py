@@ -9,7 +9,7 @@ import time
 from io import BytesIO, StringIO
 from osm import geocode_address, get_osrm_matrix
 
-st.set_page_config(page_title="PO Calculator", layout="wide")
+st.set_page_config(page_title="OP Engineering", layout="wide")
 
 st.title("OP Engineering")
 
