@@ -1,6 +1,6 @@
-## 🗺️ OP Engineering
+## 🗺️ OR Engineering
 
-OP Engineering é uma aplicação interativa desenvolvida com Streamlit que permite mapear e calcular distâncias entre múltiplos pontos de origem e destino utilizando dados da API do OpenStreetMap (OSM). O projeto é ideal para análises logísticas, planejamento de rotas, Pesquisa Operacional e qualquer cenário que envolva geolocalização.
+OR Engineering é uma aplicação interativa desenvolvida com Streamlit que permite mapear e calcular distâncias entre múltiplos pontos de origem e destino utilizando dados da API do OpenStreetMap (OSM). O projeto é ideal para análises logísticas, planejamento de rotas, Pesquisa Operacional e qualquer cenário que envolva geolocalização.
 
 🚀 Funcionalidades
 

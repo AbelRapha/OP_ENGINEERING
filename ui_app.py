@@ -9,9 +9,9 @@ import time
 from io import BytesIO, StringIO
 from osm import geocode_address, get_osrm_matrix
 
-st.set_page_config(page_title="OP Engineering", layout="wide")
+st.set_page_config(page_title="OR Engineering", layout="wide")
 
-st.title("OP Engineering")
+st.title("🗺️ OR Engineering")
 
 col1, col2 = st.columns(2)
 with col1:
