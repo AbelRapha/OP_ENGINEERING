@@ -39,7 +39,7 @@ Python (requests, pandas, StringIO)
 ## 📦 Instalação
 
 ```
-git clone https://github.com/seu-usuario/map-engineering.git
+git clone https://github.com/seu-usuario/op-engineering.git
 cd map-engineering
 pip install -r requirements.txt
 streamlit run app.py
